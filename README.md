@@ -245,4 +245,4 @@ This repository serves as the official landing page for Citra. The software is d
 **Get the most recent version of Citra today!**
 
 ---
-**Last updated:** 2026-10-09 08:41:01 UTC
+**Last updated:** 2026-10-09 15:56:48 UTC
